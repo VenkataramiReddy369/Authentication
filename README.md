@@ -1,13 +1,13 @@
-Authentication
+# Authentication
 
 Goodreads APIs
 
-Register user API
+   Register user API
 
-Login user API
+   Login user API
 
 bcrypt
 
-bcrypt.hash()
+   bcrypt.hash()
 
-bcrypt.compare()
+   bcrypt.compare()
